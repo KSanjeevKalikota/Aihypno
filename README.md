@@ -28,6 +28,6 @@ Read [`SKILL.md`](.claude/skills/fable-playbook/SKILL.md) for the full text.
 1. Start a Claude Code session in this repository.
 2. Claude Code discovers the skill in `.claude/skills/` and lists it as `fable-playbook`.
 3. `CLAUDE.md` tells Claude to load the skill at the start of every task, so no extra step is needed.
-4. To load the skill on demand, ask Claude to use the `fable-playbook` skill, or type `/fable-playbook`.
+4. To load the skill on demand, ask Claude to use the `fable-playbook` skill.
 
 To change how Claude works in this repository, edit `SKILL.md`.
